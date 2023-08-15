@@ -1,4 +1,4 @@
-# Ensamble Learning
+# Movie Recommendation Project
 
 ## Introduction
 This project focuses on various techniques for ensamble learning such as Bagging and Boosting, play a crucial role in improving model performance and robustness,cleaning data for ensuring high-quality input for machine learning models.
