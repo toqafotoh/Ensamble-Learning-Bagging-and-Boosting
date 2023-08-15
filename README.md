@@ -12,5 +12,4 @@ This project focuses on various techniques for ensamble learning such as Bagging
 6. Gradient Boosting: Dive into Gradient Boosting, a boosting technique that sequentially trains weak learners to create a strong model.
 
 ## Dataset
-For the examples and demonstrations, we'll use the [Movies Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies), which provides insights into movie-related data.
-
+In this project, we dive into a collection of 6,820 movies, packed with a variety of details. You can access and download this dataset [here](https://www.kaggle.com/datasets/danielgrijalvas/movies).
